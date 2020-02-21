@@ -27,8 +27,8 @@ I created my own blinking pattern and used the Mode Changer code to link my butt
 * 1 - Arduino Micro
 
 ![HOODIE](/heartpaper.jpg)
-![HOODIE](/heartpaper2.jpg)
-![HOODIE](/heartpaper3.jpg)
+![HOODIE](/heartpaper2.JPG)
+![HOODIE](/heartpaper3.JPG)
 
 
 
