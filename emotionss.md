@@ -3,4 +3,4 @@ My objective for this first project was to represent one of the most
 common emotions that around 40 million Americans experience as well: ANXIETY. 
 
 ## FINAL VIDEO
-![Final Video] (/gif.gif)
+![Final Video] (cea119/CIM542/gif.gif)
