@@ -12,4 +12,18 @@ My paper sculpture was built using this [Template Maker](https://www.templatemak
 
 ![Final HODDIE](/HOODIEjpg.jpg)
 
-## [Code](/)
+## [Code](/final_final_switch.ino)
+Click on "CODE" to see my code!! 
+
+
+I created my own blinking pattern and used the Mode Changer code to link my button to my LEDs. I purposely made the LEDs blink quickly and in different directions in order to convey the feeling of an anxious and racing heart. Many people identify with the feeling of an anxious heart- and I attempted to bring that feeling to life through this prototype. 
+
+## Circuit
+
+* 3 - 220ohm resistors
+* 1- 10k resistor
+* 2 - Red LEDs
+* 1- White LEDs
+* 1 - Arduino Micro
+
+
