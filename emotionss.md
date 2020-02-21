@@ -32,7 +32,7 @@ I created my own blinking pattern and used the Mode Changer code to link my butt
 
 ![CIRCUIT](/circuit.JPG)
 
+## Issues
 
-
-
-
+* I had some trouble with drawing the heart on the box- the heart's .ai file has a lot of detail and the printerr found it hard to print
+*I should have made a platform for the box to stand on- to hide the wires & make a more steady structure
