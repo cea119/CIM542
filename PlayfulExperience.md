@@ -1,4 +1,4 @@
-## PPROJECT 2- Playful Interaction 
+## PPROJECT 2- Playful Experience 
 My objective for this first project was to represent one of the most 
 common emotions that around 40 million Americans experience as well: ANXIETY. 
 
