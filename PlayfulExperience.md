@@ -19,7 +19,7 @@ Here are some pics as I was crafting!
 ![Image3](/image3.jpg)
 
 
-## [Code](/wash_timer.ino)
+## [Code](/wash_timer2.ino)
 Click on "CODE" to see my code!! 
 
 
