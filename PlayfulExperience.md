@@ -14,10 +14,9 @@ Due to my complete self-quarantine, I have not been able to leave the house- the
 
 Here are some pics as I was crafting! 
 
-![Final HODDIE](/image1.jpg)
-![HOODIE](/heartpaper.jpg)
-![HOODIE](/heartpaper2.JPG)
-![HOODIE](/heartpaper3.JPG)
+![Image1](/image1.jpg)
+![Image2](/image2.jpg)
+![Image3](/image3.jpg)
 
 
 ## [Code](/final_final_switch.ino)
