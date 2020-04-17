@@ -5,7 +5,7 @@ The CDC recommends everyone wash their hands for at least 20 seconds to ensure m
 
 ## WASH EM
 
-![Prototype](/proj2.gif)
+[WASH TIME- TIMER GIF](https://media.giphy.com/media/jqrg4j4bTGsS3Cttgg/giphy.gif "WASH TIME- TIMER GIF ")
  
 
 ## Sculpture
