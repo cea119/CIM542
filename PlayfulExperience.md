@@ -1,10 +1,10 @@
 ## PPROJECT 2- Playful Experience 
 It's been a stressful and confusing couple of weeks where it seems like most only talk about COVID-19. No doubt, the virus is scary and it's in our minds all the time- therefore, for my project I wanted to put my anxiety to good use by creating a project that would allow myself and my family safe(ish). 
 
-My objective for this second project was to represent one of the most 
-common emotions that around 40 million Americans experience as well: ANXIETY. 
+The CDC recommends everyone wash their hands for at least 20 seconds to ensure most germs are washed off and your hands are nice and clean! Sooooooo, I created a 20 second timer using a servo, some wires, and an ultrasonic sensor to create a timer that recognizes hand movement. My goal is for everyone in my home to wash their hands for 20+ seconds.  
 
-## FINAL VIDEO
+## WASH EM
+
 ![Final Video](/gif.gif)
 P.S: Github absolutely hates me, LOL- so if the gif is not playing by itself, click on it :) 
 
