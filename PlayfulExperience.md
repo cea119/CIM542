@@ -1,5 +1,7 @@
 ## PPROJECT 2- Playful Experience 
-My objective for this first project was to represent one of the most 
+It's been a stressful and confusing couple of weeks where it seems like most only talk about COVID-19. No doubt, the virus is scary and it's in our minds all the time- therefore, for my project I wanted to put my anxiety to good use by creating a project that would allow myself and my family safe(ish). 
+
+My objective for this second project was to represent one of the most 
 common emotions that around 40 million Americans experience as well: ANXIETY. 
 
 ## FINAL VIDEO
