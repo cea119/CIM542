@@ -19,23 +19,18 @@ Here are some pics as I was crafting!
 ![Image3](/image3.jpg)
 
 
-## [Code](/final_final_switch.ino)
+## [Code](/wash_timer.ino)
 Click on "CODE" to see my code!! 
 
 
-I created my own blinking pattern and used the Mode Changer code to link my button to my LEDs. I purposely made the LEDs blink quickly and in different directions in order to convey the feeling of an anxious and racing heart. Many people identify with the feeling of an anxious heart- and I attempted to bring that feeling to life through this prototype. 
+## Materials
 
-## Circuit
+* Jumper Wires
+* Male to female wires
+* Ultrasonic Sensor 
+* Servo
+* 1 Elegoo UNO R3
+* Cardboard 
+* Server horn
 
-* 3 - 220ohm resistors
-* 1- 10k resistor
-* 2 - Red LEDs
-* 1- White LEDs
-* 1 - Arduino Micro
 
-![CIRCUIT](/circuit.JPG)
-
-## Issues
-
-* I had some trouble with drawing the heart on the box- the heart's .ai file has a lot of detail and the printerr found it hard to print
-*I should have made a platform for the box to stand on- to hide the wires & make a more steady structure
