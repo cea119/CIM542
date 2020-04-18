@@ -44,7 +44,7 @@ This prototype was created using OnShape 3D sofware.
 
 The dotted lines indicate cuts- there are three cuts in the cube- the bottom, back, and (<1 in) square in the middle of the cube's front side.  
 
-STAY SAFE. STAY HOME. And take care :) 
+STAY SAFE. STAY HOME. WASH YOUR HANDS-  And take care :) 
 
 
 
