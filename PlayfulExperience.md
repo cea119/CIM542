@@ -11,7 +11,7 @@ The CDC recommends everyone wash their hands for at least 20 seconds to ensure m
 
 ## Structure
 
-Due to my complete self-quarantine, I have not been able to leave the house- therefore, the only materials I could use to build my timer board was cardboard, stickers, markers, and a hot-glue gun: all materials I had at home. To build the actual timer I used the Arduino software for the code. I created a 20 second timer using a servo, some wires, and an ultrasonic sensor to create a timer that recognizes hand movement. The timer turns on when the sensor senses movement. My goal is for everyone in my home to wash their hands for 20+ seconds. 
+To build my timer board was cardboard, stickers, markers, and a hot-glue gun: all materials I had at home. To build the actual timer I used the Arduino software for the code. I created a 20 second timer using a servo, some wires, and an ultrasonic sensor to create a timer that recognizes hand movement. The timer turns on when the sensor senses movement. My goal is for everyone in my home to wash their hands for 20+ seconds. 
 
 Here are some pics as I was crafting! 
 
