@@ -1,9 +1,10 @@
 ## PPROJECT 2- Playful Experience 
+
 It's been a stressful and confusing couple of weeks. It seems like all we talk about is COVID-19. No doubt, the virus is scary and it's in our minds all the time- therefore, for my project I wanted to put my anxiety to good use by creating a project that would allow myself and my family safe(ish). 
 
 The CDC recommends everyone wash their hands for at least 20 seconds to ensure most germs are washed off and your hands are nice and clean! Soooooo, I created a 20 second timer! 
 
-## WASH EM
+## WASH 'EM BOT
 
 ![Proj Gif](/proj2.gif)
  
