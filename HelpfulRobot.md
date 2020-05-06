@@ -28,7 +28,7 @@ Starting to Build the Structure
 
 
 
-## [Code](/wash_timer2.ino)
+## [Code](/final_buzz2.ino)
 Click on "CODE" to see my code!! 
 
 
