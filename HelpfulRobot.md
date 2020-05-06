@@ -21,6 +21,12 @@ Here are some pics as I was creating!
 ![Image1](/bot2.JPG)
 ![Image2](/bot3.JPG)
 
+Starting to Build the Structure 
+
+![Image2](/bot4.JPG)
+![Image2](/bot5.JPG)
+
+
 
 ## [Code](/wash_timer2.ino)
 Click on "CODE" to see my code!! 
