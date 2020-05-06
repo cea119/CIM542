@@ -1,10 +1,13 @@
-## PPROJECT 2- Playful Experience 
+## PROJECT 3- Helpful Robot
+### Final Project
 
-It's been a stressful and confusing couple of weeks. It seems like all we talk about is COVID-19. No doubt, the virus is scary and it's on our minds non-stop- therefore, for my project I wanted to put my anxiety to good use by creating a project that would allow myself and my family to feel a little safer(ish). 
+Although I have been trying to read as little news as possible, due to all the negativity and tragedies going on, there is no escape from the tem "social distancing." The CDC also calls social distancing “physical distancing.” Meaning, keeping space between yourself and other people outside of your home.One of the most effective ways of complying with the social distancing protocol is staying around 6 feet apart from other people. Have you ever wondered why 6 feet? 
 
-The CDC recommends everyone wash their hands for at least 20 seconds to ensure most germs are washed off and your hands are nice and clean! Soooooo, I created a timer to make sure I get to those 20 seconds when washing my hands! 
+"Six feet is the average distance that respiratory droplets from a sneeze or cough travel before they settle and are no longer likely to be inhaled by other people. I have seen estimates for social distancing of up to 10 feet if someone sneezes quite hard, [or] does not cover their sneeze [or] cough,"
 
-## WASH 'EM BOT
+Source: https://www.livescience.com/coronavirus-six-feet-enough-social-distancing.html
+
+## Anti Social Social Bot
 
 ![Proj Gif](/proj2.gif)
  
