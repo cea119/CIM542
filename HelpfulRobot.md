@@ -9,14 +9,14 @@ Source: https://www.livescience.com/coronavirus-six-feet-enough-social-distancin
 
 ## Anti Social Social Bot
 
-![Proj Gif](/proj2.gif)
+![Image1](/bot1.JPG)
  
 
 ## Structure
 
-To build my timer board was cardboard, stickers, markers, and a hot-glue gun: all materials I had at home. To build the actual timer I used the Arduino software for the code. I created a 20 second timer using a servo, some wires, and an ultrasonic sensor to create a timer that recognizes hand movement. The timer turns on when the sensor senses movement. My goal is for everyone in my home to wash their hands for 20+ seconds. 
+To build my robot I used was Corona Extra 18-pack cardboard, Aleve medice box and some tape: all materials I had at home. To build the electronic part of the bot- I used the Arduino software for the code and Arduino hardware to make the code come to life. I created a robot that detects when people get too close to it- using an Arduino Uno, ultrasonic sensor, buzzer and some wires to create a timer that recognizes movement due to proximity. The buzzer makes a loud noise once it senses movement. Although sad, until the vaccine/cure come around- social distancing is going to be our new normal, so we can use this boat as a reminder to practice physical distancing. 
 
-Here are some pics as I was crafting! 
+Here are some pics as I was creating! 
 
 ![Image1](/image1.jpg)
 ![Image2](/image2.jpg)
