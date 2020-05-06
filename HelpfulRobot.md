@@ -26,6 +26,16 @@ Starting to Build the Structure
 ![Image2](/bot4.JPG)
 ![Image2](/bot5.JPG)
 
+## READY 
+
+Although in normal circumstances I would have 3D printed the robot's structure - I had to use what I had at home. Corona Extra carton and pain meds box. LOL! 
+
+![Image2](/bot6.JPG)
+![Image2](/bot7.JPG)
+![Image2](/bot8.JPG)
+![Image2](/bot9.JPG)
+![Image2](/bot10.JPG)
+![Image2](/bot11.JPG)
 
 
 ## [Code](/final_buzz2.ino)
