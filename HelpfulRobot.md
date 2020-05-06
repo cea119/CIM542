@@ -47,7 +47,7 @@ Click on "CODE" to see my code!!
 * Jumper Wires
 * Male to female wires
 * Ultrasonic Sensor 
-* Buuzzer
+* Buzzer
 * 1 Elegoo UNO R3
 * Cardboard 
 * Aleve pill box
@@ -64,8 +64,7 @@ Ideally the bot's structure would have been 3D printed; due to the stay at home 
 
 This prototype was created using OnShape 3D sofware. 
 [This prototype was created using OnShape 3D sofware.](https://cad.onshape.com/documents/d780f9b8ae0755e8dbeccf70/w/7e81615f628c4dcbf6d9d4b7/e/ceafea7e4762c8bab4347b22 "OnShape Design")
-
-(https://cad.onshape.com/documents/a644334745ff52fc3cf67c19/w/13a91709be8899794e148783/e/294e2cfecec14f6d399c936b "OnShape Design")
+[This prototype was created using OnShape 3D sofware.](https://cad.onshape.com/documents/a644334745ff52fc3cf67c19/w/13a91709be8899794e148783/e/294e2cfecec14f6d399c936b "OnShape Design")
 
 
 STAY SAFE. STAY HOME. PRACTICE SOCIAL DISTANCING And take care :) 
