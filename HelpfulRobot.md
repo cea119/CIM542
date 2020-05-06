@@ -18,8 +18,8 @@ To build my robot I used was Corona Extra 18-pack cardboard, Aleve medice box an
 
 Here are some pics as I was creating! 
 
-![Image1](/bot2.jpg)
-![Image2](/bot3.jpg)
+![Image1](/bot2.JPG)
+![Image2](/bot3.JPG)
 
 
 ## [Code](/wash_timer2.ino)
