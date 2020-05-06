@@ -54,20 +54,22 @@ Click on "CODE" to see my code!!
 
 ## YOUTUBE
 
-[This is the Youtube link to my project](https://youtu.be/8GHer7EE9Ng "Timer Youtube Video")
+[This is the Youtube link to my project](https://youtu.be/omA5UN7fSlc "BOT Youtube Video")
 
-## ONSHAPE PROTOTYPE
-
-Ideally the bot's structure would have been 3D printed; due to the stay at home restrictions, I had to buiild with what I had at home. 
 
 ## SKETCHES
 
 ![Image2](/screen1.png)
 ![Image2](/screen2.png)
 
+## ONSHAPE PROTOTYPE
+
+Ideally the bot's structure would have been 3D printed; due to the stay at home restrictions, I had to buiild with what I had at home. 
+
 This prototype was created using OnShape 3D sofware. 
 [LINK TO MODEL 1.](https://cad.onshape.com/documents/d780f9b8ae0755e8dbeccf70/w/7e81615f628c4dcbf6d9d4b7/e/ceafea7e4762c8bab4347b22 "OnShape Design")
 [LINK TO MODEL 2.](https://cad.onshape.com/documents/a644334745ff52fc3cf67c19/w/13a91709be8899794e148783/e/294e2cfecec14f6d399c936b "OnShape Design")
+
 
 
 STAY SAFE. STAY HOME. PRACTICE SOCIAL DISTANCING And take care :) 
