@@ -14,7 +14,7 @@ Source: https://www.livescience.com/coronavirus-six-feet-enough-social-distancin
 
 ## Structure
 
-To build my robot I used was Corona Extra 18-pack cardboard, Aleve medice box and some tape: all materials I had at home. To build the electronic part of the bot- I used the Arduino software for the code and Arduino hardware to make the code come to life. I created a robot that detects when people get too close to it- using an Arduino Uno, ultrasonic sensor, buzzer and some wires to create a timer that recognizes movement due to proximity. The buzzer makes a loud noise once it senses movement. Although sad, until the vaccine/cure come around- social distancing is going to be our new normal, so we can use this boat as a reminder to practice physical distancing. 
+To build my robot I used was Corona Extra 18-pack cardboard, Aleve medice box and some tape: all materials I had at home. To build the electronic part of the bot- I used the Arduino software for the code and Arduino hardware to make the code come to life. I created a robot that detects when people get too close to it- using an Arduino Uno, ultrasonic sensor, buzzer and some wires to create a timer that recognizes movement due to proximity. The buzzer makes a loud noise once it senses movement. Although sad, until the vaccine/cure come around- social distancing is going to be our new normal, so we can use this boat as a reminder to practice physical distancing. Ideally we would not have to use such device, but if it were to be used, it could be designed so those using it can weear it as some sort of necklace. It is also ideal for those who are visually impared- they can use it to prevent running in to objects or other people. 
 
 Here are some pics as I was creating! 
 
