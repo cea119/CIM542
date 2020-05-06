@@ -37,10 +37,10 @@ Click on "CODE" to see my code!!
 * Jumper Wires
 * Male to female wires
 * Ultrasonic Sensor 
-* Servo
+* Buuzzer
 * 1 Elegoo UNO R3
 * Cardboard 
-* Server horn
+* Aleve pill box
 
 ## YOUTUBE
 
@@ -48,9 +48,14 @@ Click on "CODE" to see my code!!
 
 ## ONSHAPE PROTOTYPE
 
+Ideally the bot's structure would have been 3D printed; due to the stay at home restrictions, I had to buiild with what I had at home. 
+
+## SKETCHES
+
 This prototype was created using OnShape 3D sofware. 
-[This prototype was created using OnShape 3D sofware.](https://cad.onshape.com/documents/c1236d044a9114e1e5bf3d73/w/919ba9e70ec92b83b01069eb/e/c19d85469ad34c92f6a5c510 "OnShape Design")
+[This prototype was created using OnShape 3D sofware.](https://cad.onshape.com/documents/d780f9b8ae0755e8dbeccf70/w/7e81615f628c4dcbf6d9d4b7/e/ceafea7e4762c8bab4347b22 "OnShape Design")
 
-The dotted lines indicate cuts- there are three cuts in the cube- the bottom, back, and (<1 in) square in the middle of the cube's front side.  
+(https://cad.onshape.com/documents/a644334745ff52fc3cf67c19/w/13a91709be8899794e148783/e/294e2cfecec14f6d399c936b "OnShape Design")
 
-STAY SAFE. STAY HOME. WASH YOUR HANDS-  And take care :) 
+
+STAY SAFE. STAY HOME. PRACTICE SOCIAL DISTANCING And take care :) 
