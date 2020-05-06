@@ -62,8 +62,8 @@ Ideally the bot's structure would have been 3D printed; due to the stay at home 
 
 ## SKETCHES
 
-![Image2](/bot11.jpg)
-![Image2](/bot11.jpg)
+![Image2](/screen1.png)
+![Image2](/screen2.png)
 
 This prototype was created using OnShape 3D sofware. 
 [LINK TO MODEL 1.](https://cad.onshape.com/documents/d780f9b8ae0755e8dbeccf70/w/7e81615f628c4dcbf6d9d4b7/e/ceafea7e4762c8bab4347b22 "OnShape Design")
