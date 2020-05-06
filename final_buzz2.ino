@@ -1,0 +1,48 @@
+int const trigPin = 10;
+int const echoPin = 9;
+int const buzzPin = 2;
+
+void setup()
+{
+  pinMode(trigPin, OUTPUT); 
+  pinMode(echoPin, INPUT); 
+  pinMode(buzzPin, OUTPUT);
+}
+
+void loop()
+{
+
+  int duration;
+  int distance;
+  
+  
+  
+  digitalWrite(trigPin, HIGH); 
+  delay(1);
+  
+  digitalWrite(trigPin, LOW);
+
+  duration = pulseIn(echoPin, HIGH);
+  
+  distance = (duration/2) / 29.1;
+
+    
+    if (distance <= 50 && distance >= 0)
+    {
+      // Buzz
+      digitalWrite(buzzPin, HIGH);
+     tone(buzzPin, 70000); 
+    } 
+    
+    else {
+      // no buzz
+      digitalWrite(buzzPin, LOW);
+      noTone (buzzPin); 
+
+    }
+    
+    delay(60);
+
+
+    
+}
